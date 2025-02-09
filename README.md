@@ -1,5 +1,5 @@
 # 💫 About Me:
- Passionate web developer with a strong foundation in front end and back-end technologies, including HTML5, CSS, JavaScript, Java, React, Node.js, Tailwind CSS, SQL, and<br> MongoDB. Proficient in creating interactive and responsive websites with smooth animations and engaging user<br> interfaces. Adept at problem-solving, data structures, and delivering scalable web applications. Eager to contribute my skills in a dynamic and growth-oriented environment.
+ Passionate web developer with a strong foundation in front end and back-end technologies, including HTML5, CSS, JavaScript, Java, React, Node.js, Tailwind CSS, SQL, and MongoDB. Proficient in creating interactive and responsive websites with smooth animations and engaging user interfaces. Adept at problem-solving, data structures, and delivering scalable web applications. Eager to contribute my skills in a dynamic and growth-oriented environment.
 
 
 ## 🌐 Socials:
