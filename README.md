@@ -2,7 +2,7 @@
  Passionate web developer with a strong foundation in front end and back-end technologies, including HTML5, CSS, JavaScript, Java, React,, Tailwind CSS, SQL, and MongoDB. Proficient in creating interactive and responsive websites with smooth animations and engaging user interfaces. Adept at problem-solving, data structures, and delivering scalable web applications. Eager to contribute my skills in a dynamic and growth-oriented environment.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shakirsiddiqui_123) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-shakir258) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shakir258) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shakirofficial258@gmail.com) 
 
 # 💻 Tech Stack:
